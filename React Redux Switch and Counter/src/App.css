@@ -1,0 +1,10 @@
+.light {
+  width: 100vw;
+  height: 75vh;
+}
+
+.light button {
+  display: flex;
+  margin: 20px auto;
+  padding: 20px;
+}
